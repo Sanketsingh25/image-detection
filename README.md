@@ -273,7 +273,7 @@ balltracker = load_model('balltracker.h5')
 Computer Vision · Robotics · Deep Learning
 
 - 🔗 [GitHub](https://github.com/Sanketsingh25)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(update this)*
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sanket-singh-b73254311))
 
 ---
 
